@@ -1,15 +1,13 @@
-# Nature Depicted
+<h3 align="center"><b>NATURE DEPICTED</b></h3>
 
-## Deployment
-[Live Site](https://nature-depicted.vercel.app)
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
 
-## Local Development
-To run the project locally:
-1. `npm install`
-2. `npm run dev`
+Get ready to be amazed! This project is a beautiful web experiment pushing the boundaries of what is possible in the browser.
+
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://nature-depicted.vercel.app](https://nature-depicted.vercel.app)
 
 ## Preview
 ![Preview Demo](preview.gif)
 
-## Credits
-Made by Y7XIFIED
+<div align="center"><p>Y7XIFIED</p></div>
