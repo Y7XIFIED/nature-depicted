@@ -38,13 +38,13 @@ Nature-Depicted/
 │   ├── project.json
 │   └── README.txt
 ├── assets
-│   ├── img1.jpg
-│   ├── img2.jpg
-│   ├── img3.jpg
-│   ├── img4.jpg
-│   ├── img5.jpg
-│   ├── img6.jpg
-│   ├── img7.jpg
+│   ├── 1.jpg
+│   ├── 2.jpg
+│   ├── 3.jpg
+│   ├── 4.jpg
+│   ├── 5.jpg
+│   ├── 6.jpg
+│   ├── 7.jpg
 │   └── Nasalization Rg.otf
 ├── favicon.png
 ├── index.html
